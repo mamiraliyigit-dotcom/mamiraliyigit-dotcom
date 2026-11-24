@@ -2,9 +2,10 @@
 
 O'zbekistonlik dasturchiman. Sun'iy intellekt asosidagi dasturlar va ish joyi uchun foydali vositalar yarataman.
 
-- 🤖 Hozir ustida ishlayapman: **Huquq AI**, O'zbekiston qonunchiligi bo'yicha savollarga javob beradigan AI yordamchi
 - 🛠 Windows uchun xavfsizlik va ofis dasturlari, Telegram botlar, mobil ilovalar
 - 📢 Telegram kanalim: [@raqamlidunyo_ai](https://t.me/raqamlidunyo_ai), sun'iy intellekt va texnologiya yangiliklari
+- 💻 Dasturlar kanali: [@dasturlar_markazi](https://t.me/dasturlar_markazi)
+- 📸 Instagram: [@mamirali_yigitaliyev_it_va_ai](https://www.instagram.com/mamirali_yigitaliyev_it_va_ai)
 
 ### Texnologiyalar
 
